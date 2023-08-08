@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/css/main.4a2fff76.chunk.css",
+    "main.js": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/main.2c1dc73a.chunk.js",
+    "main.js.map": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/main.2c1dc73a.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/runtime-main.a7a919f9.js",
+    "runtime-main.js.map": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/runtime-main.a7a919f9.js.map",
+    "static/js/2.79dc6b0d.chunk.js": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/2.79dc6b0d.chunk.js",
+    "static/js/2.79dc6b0d.chunk.js.map": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/2.79dc6b0d.chunk.js.map",
+    "index.html": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/index.html",
+    "static/css/main.4a2fff76.chunk.css.map": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/css/main.4a2fff76.chunk.css.map",
+    "static/js/2.79dc6b0d.chunk.js.LICENSE.txt": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/js/2.79dc6b0d.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/media/delete.331149da.svg",
+    "static/media/edit.569363b1.svg": "/git@github.com:Mikejoya/curso-react-router-proyecto2.git/static/media/edit.569363b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a919f9.js",
+    "static/js/2.79dc6b0d.chunk.js",
+    "static/css/main.4a2fff76.chunk.css",
+    "static/js/main.2c1dc73a.chunk.js"
+  ]
+}
